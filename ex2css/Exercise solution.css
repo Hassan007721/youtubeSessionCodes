@@ -1,0 +1,23 @@
+
+
+.container{
+       width: 1000px;
+     /* border: 4px solid red; */
+    margin: 0px auto;
+}
+
+
+h1{
+    background: #cdcdcd;
+    text-align: center;
+    padding: 15px 0px;
+}
+section.About-me, section.About-Dear{
+    border: 4px solid green;
+    padding: 15px 
+    
+
+}
+.About-me{
+    margin: 20px auto;
+}
